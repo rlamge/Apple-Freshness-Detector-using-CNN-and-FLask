@@ -1,0 +1,9 @@
+To run the application-
+
+1. Install the libraries in the requirements.txt
+   Command: 'pip install -r requirements.txt'
+
+2. Run the main.py file in command prompt 
+   Command: 'python main.py'
+
+3. Open local host in browser with port 3000
